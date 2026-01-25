@@ -31,5 +31,18 @@
 #         print("B "+str(b)+" is the greatest")
 #     else:
 #         print("C "+str(c)+" is the greatest")   
-# ##########################         
-          
+# ##########################       
+# def display(list1):
+#     for el in list1:
+#         print(el)
+
+# display(["Khalid","Jim","Shanto"]) 
+
+dic = {
+    "Bangla":97,
+    "englis":98,
+   " Math" : 100
+}
+
+print(dic)
+print(dic["Bangla"])
